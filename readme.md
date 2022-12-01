@@ -2,9 +2,9 @@
 Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
 
 
-#Table name: Cars
+#Nome tabella: Macchine
 
-#Table columns: 
+#Colonne tabella: 
 - id | BIGINT | AI, UNIQUE, NOT NULL
 - casa_produttrice | VARCHAR(20) | NOT NULL
 - modello | VARCHAR(20) | NULL
